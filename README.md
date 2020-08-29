@@ -1,2 +1,1 @@
-## Tania's React
-# tania-react
+# Tania's React
