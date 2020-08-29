@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tania-react/static/css/main.b672e0e3.chunk.css",
+    "main.js": "/tania-react/static/js/main.35ab8a7f.chunk.js",
+    "main.js.map": "/tania-react/static/js/main.35ab8a7f.chunk.js.map",
+    "runtime-main.js": "/tania-react/static/js/runtime-main.81d5dff8.js",
+    "runtime-main.js.map": "/tania-react/static/js/runtime-main.81d5dff8.js.map",
+    "static/js/2.33786497.chunk.js": "/tania-react/static/js/2.33786497.chunk.js",
+    "static/js/2.33786497.chunk.js.map": "/tania-react/static/js/2.33786497.chunk.js.map",
+    "index.html": "/tania-react/index.html",
+    "precache-manifest.f53f984497efed24649f63211c81d639.js": "/tania-react/precache-manifest.f53f984497efed24649f63211c81d639.js",
+    "service-worker.js": "/tania-react/service-worker.js",
+    "static/css/main.b672e0e3.chunk.css.map": "/tania-react/static/css/main.b672e0e3.chunk.css.map",
+    "static/js/2.33786497.chunk.js.LICENSE.txt": "/tania-react/static/js/2.33786497.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81d5dff8.js",
+    "static/js/2.33786497.chunk.js",
+    "static/css/main.b672e0e3.chunk.css",
+    "static/js/main.35ab8a7f.chunk.js"
+  ]
+}
